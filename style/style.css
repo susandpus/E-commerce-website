@@ -1,0 +1,55 @@
+.my-bg{
+    background-color: #59d7eb;
+    }
+    .sub-btn{
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0;
+        background-color: black;
+        color: white;
+    }
+    .buy-btn{
+        background: black;
+        color: white;
+        border-radius: 9px;
+    }
+    .buy-btn:hover{
+        color: rgb(224, 182, 12);
+    }
+    .form{
+        width: 20rem;
+        border: 0;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+    }
+    .footer{
+    background-color: rgba(255, 166, 0, 0.101);
+    padding: 5rem 0;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.footer-menu{
+list-style: none;
+}
+ul{
+padding: 0;
+}
+.copyright{
+margin-top: 4rem;
+}
+.tab{
+color: black;
+}
+.f-icon{
+margin-left: 5px;
+border: 1px solid black;
+padding: 10px;
+border-radius: 50%;
+color: black;
+}
+.subscribe{
+    background-color: #fa7161;
+    padding-top: 5rem;
+}
