@@ -30,12 +30,7 @@
 .navbar-brand{
     font-size: 2rem;
 }
-.footer-menu{
-list-style: none;
-}
-ul{
-padding: 0;
-}
+
 .copyright{
 margin-top: 4rem;
 }
@@ -58,4 +53,10 @@ color: black;
     color: white;
     border-radius: 2px;
     font-size: 1rem;
+}
+.text-center-copyright{
+    background-color: #cae58f;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
 }
