@@ -1,5 +1,5 @@
 .my-bg{
-    background-color: #59d7eb;
+    background-color: #b8f338;
     }
     .sub-btn{
         border-top-right-radius: 5px;
@@ -50,6 +50,12 @@ border-radius: 50%;
 color: black;
 }
 .subscribe{
-    background-color: #fa7161;
+    background-color: #b8f338;
     padding-top: 5rem;
+}
+.sub-btn{
+    background: black;
+    color: white;
+    border-radius: 2px;
+    font-size: 1rem;
 }
